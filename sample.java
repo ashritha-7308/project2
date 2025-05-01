@@ -1,6 +1,6 @@
-public class sample
+public class Sample
 {
-	public static void main(Stings args[])
+	public static void main(Sting args[])
 	{
 		System.out.println("Ojja Ashritha");
 	}
